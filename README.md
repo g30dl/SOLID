@@ -1,2 +1,2 @@
 # SOLID
-Taller 2, Principios de diseño SOLID
+Taller 3, Principios de diseño SOLID
